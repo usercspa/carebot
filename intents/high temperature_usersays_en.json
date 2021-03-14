@@ -1,0 +1,47 @@
+[
+  {
+    "id": "19b2ffe3-d2bc-43aa-8c42-e9d67e05f13f",
+    "data": [
+      {
+        "text": "my temperature is above ",
+        "userDefined": false
+      },
+      {
+        "text": "37.6C",
+        "meta": "@sys.temperature",
+        "alias": "temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96973da6-2b59-486e-84f1-3074474459f6",
+    "data": [
+      {
+        "text": "still having a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a4b6b7d-c366-4dc8-a757-efbb4384b106",
+    "data": [
+      {
+        "text": "my temperature is still high",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

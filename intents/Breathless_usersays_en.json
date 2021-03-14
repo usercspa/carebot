@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f7d1da3c-2d5e-4b73-9535-a4b37188b9f0",
+    "data": [
+      {
+        "text": "have some breathing difficulties",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbd84b27-b651-4585-9c40-644c5c8d7546",
+    "data": [
+      {
+        "text": "I can\u0027t breathe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f388c3c0-636f-4012-b7b6-02561bb19bfa",
+    "data": [
+      {
+        "text": "I am feeling breathless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

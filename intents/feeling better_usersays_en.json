@@ -1,0 +1,164 @@
+[
+  {
+    "id": "cbc05f70-474e-47b1-a1f1-1210fa282589",
+    "data": [
+      {
+        "text": "surviving",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a6243e9-a417-4d5e-9e35-774f1af9df0e",
+    "data": [
+      {
+        "text": "well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b3a5e09-627e-4d48-9041-d45fcb9cd4f5",
+    "data": [
+      {
+        "text": "all good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "522ab57c-618e-4cc2-8dab-14f928aa08d6",
+    "data": [
+      {
+        "text": "I am fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86f99549-1e02-4902-952b-74087c3b7d42",
+    "data": [
+      {
+        "text": "fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed7bcca6-6f11-491b-aed4-6da7ed118aab",
+    "data": [
+      {
+        "text": "better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "565935b1-3423-4e59-a0b5-23418213fedd",
+    "data": [
+      {
+        "text": "awesome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1cccecb-3e4c-4f03-b3a5-bc2d63e41d92",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2271216d-6021-499d-9b25-22b695f354af",
+    "data": [
+      {
+        "text": "I can breathe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "911de41d-34ca-49fd-9c80-5316244814e8",
+    "data": [
+      {
+        "text": "no more cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c31a0b9a-3ba8-4b00-91fa-7094382ad9b0",
+    "data": [
+      {
+        "text": "my temperature lowered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87cddfd1-6266-453f-8884-e0e20bb48f21",
+    "data": [
+      {
+        "text": "I feel much better ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

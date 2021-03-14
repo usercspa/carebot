@@ -1,0 +1,132 @@
+[
+  {
+    "id": "cd2cf32d-4cf5-4d16-b75e-d27e2268c8b2",
+    "data": [
+      {
+        "text": "i need some cough drug",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f5f950a-cb38-4913-bd5e-496e2e0f66cc",
+    "data": [
+      {
+        "text": "I want to talk to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3efe874-b723-4c7a-adeb-b7a5cbaea22a",
+    "data": [
+      {
+        "text": "I want to talk to a real human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e980544-60e1-4c52-b03f-23ddd6b75baa",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27fdd284-72fa-4aad-b232-673e53e4d595",
+    "data": [
+      {
+        "text": "can someone help me to buy some food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c989653-2575-4410-b7c1-4f0a9b6aad53",
+    "data": [
+      {
+        "text": "I want a pad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcb0b289-2048-48c2-a35e-8101d3b80af3",
+    "data": [
+      {
+        "text": "no medicine left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8a945e9-1af7-403f-a1a6-08b706be86fe",
+    "data": [
+      {
+        "text": "I am running out of food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "832d3c90-61f0-4ca6-805d-574119768505",
+    "data": [
+      {
+        "text": "can you arrange some toiletries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7e6e08c-97de-4ca9-bb6b-6dc1ba1278bf",
+    "data": [
+      {
+        "text": "I need some medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

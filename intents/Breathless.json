@@ -1,0 +1,35 @@
+{
+  "id": "f2ae3649-42a7-40a9-b84e-1ccbb42cf354",
+  "name": "Breathless",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Try turning the heating down or opening a window, sitting upright in a chair, and breathing slowly in through your nose and out through your mouth. Call 111 or your GP if you\u0027re feeling more unwell. Dial 999 if your breathing has got suddenly worse"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

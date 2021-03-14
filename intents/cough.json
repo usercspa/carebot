@@ -1,0 +1,35 @@
+{
+  "id": "1a7b0dc5-ce69-4a65-b6b1-e972515ee437",
+  "name": "cough",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you have a cough, it\u0027s best to avoid lying on your back. Lie on your side or sit upright instead.\n\nTo help ease a cough, try having a teaspoon of honey. But do not give honey to babies under 12 months."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

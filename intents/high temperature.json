@@ -1,0 +1,50 @@
+{
+  "id": "077e5ad7-79ee-487e-87b8-8677dab1f1d5",
+  "name": "high temperature",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "81a3a65b-b7e9-43f6-b92d-fa14b0c2bb67",
+          "name": "temperature",
+          "required": false,
+          "dataType": "@sys.temperature",
+          "value": "$temperature",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry to hear that. Please get lots of rest, drink plenty of fluids to avoid dehydration, and take paracetamol or ibuprofen if you feel uncomfortable"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

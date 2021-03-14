@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b5dd32dd-ac59-425f-9124-25a8c6b4673f",
+    "data": [
+      {
+        "text": "financial support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8cac822-9587-484b-882e-cdba2efdcc1b",
+    "data": [
+      {
+        "text": "I need money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3978a269-4363-4808-be7e-f1ea0f96d540",
+    "data": [
+      {
+        "text": "can\u0027t afford self-isolating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3aabbe80-39c1-425d-b443-f2ef270a4d05",
+    "data": [
+      {
+        "text": "I am from a low income family and need money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

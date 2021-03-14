@@ -1,0 +1,35 @@
+{
+  "id": "cded2f5e-0d0d-4646-85a9-f93b94382358",
+  "name": "Get help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can call 0808 196 3646 from 8 am to 8 pm everyday to arrange help from a volunteer. They can help you with collecting shopping, medicines and prescriptions or chat with you if you need someone to talk to."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
